@@ -22,7 +22,7 @@
 Here is [a link to my GitHub repository](https://github.com/AbigailSeyoum-Data110-Fall2026-CRN21802)
 
 ### Images
-[![Montgomery College Logo](MClogo.png)](https://www.montgomerycollege.edu)
+[![Montgomery College Logo](MClogo-stacked-purple-blue-RGB-white-background.jpg)
 
 ### Blockquotes
 > Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.
